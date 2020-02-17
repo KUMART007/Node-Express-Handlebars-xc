@@ -1,0 +1,20 @@
+{
+  "name": "Node-Express-Handlebars-xc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "burgers_controllers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KUMART007/Node-Express-Handlebars-xc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KUMART007/Node-Express-Handlebars-xc/issues"
+  },
+  "homepage": "https://github.com/KUMART007/Node-Express-Handlebars-xc#readme"
+}
